@@ -16,5 +16,4 @@ func main() {
 	p := &v
 	p.x = 1e5
 	fmt.Println(v)
-
 }
