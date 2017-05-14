@@ -1,14 +1,12 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;helloGo&gt;">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../golang.org" />
-      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../k8s.io" />
       <root url="file://$PROJECT_DIR$/../.." />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="file://$PROJECT_DIR$/../../../golang.org" />
-      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../k8s.io" />
       <root url="file://$PROJECT_DIR$/../.." />
     </SOURCES>
     <excluded>
