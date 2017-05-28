@@ -6,9 +6,9 @@ import (
 )
 
 func main() {
-	r := regexp.MustCompile("[\\\\w]*")
+	r := regexp.MustCompile("name\\d2")
 
+	fmt.Println(r.MatchString("name92"))
 	fmt.Println(r.MatchString(""))
-	fmt.Println(r.MatchString("yax"))
 	fmt.Println(r.MatchString("yaAxzxasxa"))
 }
